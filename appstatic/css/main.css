@@ -32,6 +32,7 @@ body{
 .intro {
     padding-top: 160px;
 }
+
 h1.title {
     font-size: 75px;
     font-weight: bold;
@@ -108,7 +109,7 @@ img.logo {
     width: 200px;
     position: absolute;
     top: 20%;
-    left: 39%;
+    left: 41%;
 }
 .important-numbers{
     background: white;
@@ -145,9 +146,7 @@ h5.card-title {
         font-size: 26px;
         line-height: 1.7;
     }
-    .intro {
-        padding-top: 100px;
-    }
+    
     .intro img {
         width: 200px;
         padding-top: 50px;
